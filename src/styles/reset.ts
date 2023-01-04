@@ -42,4 +42,9 @@ export const Reset = createGlobalStyle`
   button {
     cursor: pointer;
   }
+
+  img{
+    display: block;
+    width: 100%;
+  }
 `
